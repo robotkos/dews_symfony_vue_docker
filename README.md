@@ -21,5 +21,5 @@ Update your `/etc/hosts` file with:
 You may now go to [http://app.local/](http://app.local/) and
 login using the following credentials:
 
-Login: `Foo`
+Login: `test@email.com`
 Password: `bar`
